@@ -10,7 +10,7 @@ Data yang digunakan berdasarkan Laporan Kinerja yang diproduksi oleh masing-masi
 
 Pembuatan website ini menggunakan beberapa framework dan bahasa pemrograman:
 
-1.Untuk membuat Peta digunakan [LefletJS](https://leafletjs.com)
-2.Untuk membuat tampilan digunakan [Bootstrap](https://getbootstrap.com/)
-3.Untuk menunjang pengerjaan menggunakan PHP, JS, dan HTML.
-4.Mapserver yang digunakan adalah ArcGIS Server akan tetapi bisa menggunakan opsi lain yaitu [Geoserver](http://geoserver.org/)
+1. Untuk membuat Peta digunakan [LefletJS](https://leafletjs.com)
+2. Untuk membuat tampilan digunakan [Bootstrap](https://getbootstrap.com/)
+3. Untuk menunjang pengerjaan menggunakan PHP, JS, dan HTML.
+4. Mapserver yang digunakan adalah ArcGIS Server akan tetapi bisa menggunakan opsi lain yaitu [Geoserver](http://geoserver.org/)
